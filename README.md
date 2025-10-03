@@ -1,2 +1,2 @@
 # Sigma-web-development-course
-Sighma web development course code with harry (Harry bhai)
+Sigma web development course code with harry (Harry bhai)
